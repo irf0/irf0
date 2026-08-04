@@ -21,6 +21,9 @@ I'm a React Native developer — I handle the full stack on my own: UI, backend,
 
 A complete food delivery platform built solo for a restaurant client. It has three connected apps sharing same backend.
 
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/e09814ea-252d-4505-ac66-c96a8206cfda" />
+
+
 - **Customer App** → [repo](https://github.com/irf0/akbars-darbar-food-delivery-app-new) — React Native, order flow, live tracking, payments
 - **Admin Dashboard** → [repo](https://github.com/irf0/akbars-darbar-admin-panel-new) — Electron desktop app for order/menu management
 - **Rider App** → [repo](https://github.com/irf0/akbars-darbar-rider-app-new) — delivery assignment and live location tracking
